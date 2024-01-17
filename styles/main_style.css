@@ -1,0 +1,21 @@
+body {
+    /* font-family: 'Arial', sans-serif;*/
+    background-color: #f1f1f1;
+    padding: 10px;
+}
+
+div.category-one {
+	background-color: #E9E9E9;
+}
+
+div.soft-pad {
+	padding: 25px;
+}
+
+li.done {
+    color: green;
+}
+
+li.doing {
+    color: saddlebrown;
+}
